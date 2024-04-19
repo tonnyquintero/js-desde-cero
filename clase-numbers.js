@@ -55,3 +55,4 @@ function getRandomIntInclusive(min, max) {
   }
 
 console.log(getRandomIntInclusive(1, 10));
+
