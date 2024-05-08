@@ -3,7 +3,7 @@
 const house = {
     dogName: 'Sheldon',
     dogGreeting: function() {
-        console.log(`Hi, my name is ${this.dogName}`);
+        console.log(`Hi, my name is ${house.dogName}`);
     }
 }
 
