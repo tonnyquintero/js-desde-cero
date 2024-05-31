@@ -1,1 +1,1 @@
-Course from platzi with TeffCode as a teacher
+Course from platzi with TeffCode as a teacher and Diego de granda
