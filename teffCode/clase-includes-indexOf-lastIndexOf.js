@@ -20,3 +20,4 @@ const lastIndex1 = newNumbers.lastIndexOf(6) // 7 xq es la última posición de 
 console.log(lastIndex1);
 
 const lastIndex2 = newNumbers.lastIndexOf(3) // -1 xq no aparece
+
