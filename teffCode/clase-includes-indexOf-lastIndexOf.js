@@ -7,7 +7,7 @@ const result2 = numbers.includes(8) // False
 
 // indexOf() Retorna el indice donde está el elemento, si no está se retorna -1
 
-const fruits = ['apple', 'banana', 'cherry', 'grape', 'mango']
+const fruits = ['apple', 'banana', 'cherry', 'grape', 'strawberry']
 
 const index1 = fruits.indexOf('grape') // 3
 const index2 = fruits.indexOf('blueberry') // -1
